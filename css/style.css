@@ -4,11 +4,14 @@ body{
     flex-direction: column ;
     align-items: center;
     margin-left: 10%;
-    margin: right 10%;
+    margin-right: 10%;
 
 }
 .profil{
     background-color: antiquewhite;
+    display: flex;
+    align-items:center;
+    position: relative;
     margin-bottom: 2%;
 }
 .white{
@@ -19,13 +22,22 @@ body{
 }
 .education{
     background-color: lightgoldenrodyellow;
+    border-color: antiquewhite;
+    border-style:dashed;
+    background-clip: border-box;
 }
 .aqua{
     background-color:aquamarine;
+    border-color: antiquewhite;
+    border-style:dashed;
+    background-clip: border-box;
     margin-bottom: 2%;
 }
 .blue{
     background-color: lightblue;
+    border-color: antiquewhite;
+    border-style:dashed;
+    background-clip: border-box;
     margin-bottom: 2%;
 }
 .grey{
