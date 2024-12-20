@@ -1,0 +1,35 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    display: grid;
+    flex-direction: column ;
+    align-items: center;
+    margin-left: 10%;
+    margin: right 10%;
+
+}
+.profil{
+    background-color: antiquewhite;
+    margin-bottom: 2%;
+}
+.white{
+    background-color: antiquewhite;
+    border: 1px;
+    background-clip: border-box;
+    padding-bottom:0px;
+}
+.education{
+    background-color: lightgoldenrodyellow;
+}
+.aqua{
+    background-color:aquamarine;
+    margin-bottom: 2%;
+}
+.blue{
+    background-color: lightblue;
+    margin-bottom: 2%;
+}
+.grey{
+    background-color: lightgrey;
+}
+
+
